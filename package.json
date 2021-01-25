@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "parcel a.html b.html"
+  },
+  "@parcel/bundler-default": {
+    "minBundleSize": 0
+  },
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.551"
+  }
+}
